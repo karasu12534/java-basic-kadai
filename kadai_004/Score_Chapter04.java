@@ -4,6 +4,7 @@ public class Score_Chapter04 {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
+		//各点数
 		System.out.println("Aさんの点数は10点");
 		System.out.println("Bさんの点数は20点");
 		System.out.println("Cさんの点数は30点");
@@ -13,7 +14,8 @@ public class Score_Chapter04 {
 		System.out.println("Gさんの点数は70点");
 		System.out.println("Hさんの点数は80点");
 		System.out.println("Iさんの点数は90点");
-		System.out.println("Jさんの点数は100点");		
+		System.out.println("Jさんの点数は100点");
+		//A-Jさんの平均点
 		System.out.println("テストの平均点は" + (10 + 20 + 30 + 40 + 50 + 60 + 70 + 80 + 90 + 100) / 10 + "点");
 
 	}
